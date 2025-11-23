@@ -1,0 +1,1501 @@
+employee_id,attrition,reason
+1001,No,Better Opportunity
+1002,No,Work Pressure
+1003,No,Career Growth
+1004,No,Work Pressure
+1005,No,Salary Issue
+1006,No,Salary Issue
+1007,No,Salary Issue
+1008,Yes,Relocation
+1009,No,Career Growth
+1010,No,Career Growth
+1011,No,Career Growth
+1012,No,Salary Issue
+1013,No,Better Opportunity
+1014,No,Relocation
+1015,No,Relocation
+1016,No,None
+1017,No,Salary Issue
+1018,No,Better Opportunity
+1019,No,Career Growth
+1020,No,Better Opportunity
+1021,No,Relocation
+1022,No,Better Opportunity
+1023,No,Relocation
+1024,No,None
+1025,Yes,Better Opportunity
+1026,Yes,None
+1027,No,None
+1028,No,Better Opportunity
+1029,No,Better Opportunity
+1030,No,Work Pressure
+1031,Yes,Career Growth
+1032,No,Work Pressure
+1033,No,Salary Issue
+1034,No,Work Pressure
+1035,No,Career Growth
+1036,No,Work Pressure
+1037,No,Relocation
+1038,Yes,Career Growth
+1039,No,None
+1040,No,Salary Issue
+1041,No,None
+1042,Yes,Relocation
+1043,No,Salary Issue
+1044,No,Relocation
+1045,No,None
+1046,No,Career Growth
+1047,No,Better Opportunity
+1048,No,Career Growth
+1049,No,Career Growth
+1050,No,Work Pressure
+1051,No,Salary Issue
+1052,No,None
+1053,No,Relocation
+1054,Yes,Salary Issue
+1055,No,None
+1056,Yes,None
+1057,No,None
+1058,No,Salary Issue
+1059,No,Better Opportunity
+1060,Yes,Relocation
+1061,No,Career Growth
+1062,No,None
+1063,No,Relocation
+1064,No,Better Opportunity
+1065,No,Work Pressure
+1066,No,Work Pressure
+1067,No,Better Opportunity
+1068,No,Work Pressure
+1069,Yes,Better Opportunity
+1070,No,Better Opportunity
+1071,No,Work Pressure
+1072,Yes,Salary Issue
+1073,No,Salary Issue
+1074,Yes,None
+1075,No,Career Growth
+1076,No,None
+1077,No,Salary Issue
+1078,No,Career Growth
+1079,No,Salary Issue
+1080,Yes,Relocation
+1081,No,None
+1082,No,Career Growth
+1083,No,Better Opportunity
+1084,No,Career Growth
+1085,Yes,None
+1086,No,Salary Issue
+1087,No,Career Growth
+1088,No,Salary Issue
+1089,Yes,Salary Issue
+1090,No,Relocation
+1091,No,Relocation
+1092,No,Career Growth
+1093,No,None
+1094,No,Work Pressure
+1095,No,Salary Issue
+1096,Yes,Better Opportunity
+1097,No,None
+1098,No,None
+1099,No,None
+1100,No,None
+1101,No,Career Growth
+1102,Yes,None
+1103,No,Relocation
+1104,No,Better Opportunity
+1105,No,Work Pressure
+1106,No,Salary Issue
+1107,No,Career Growth
+1108,No,Salary Issue
+1109,No,Relocation
+1110,No,Salary Issue
+1111,No,Salary Issue
+1112,No,Salary Issue
+1113,No,None
+1114,Yes,Relocation
+1115,No,Relocation
+1116,No,Better Opportunity
+1117,No,None
+1118,No,Career Growth
+1119,No,None
+1120,No,Work Pressure
+1121,No,Better Opportunity
+1122,No,Career Growth
+1123,No,Career Growth
+1124,Yes,Salary Issue
+1125,No,Work Pressure
+1126,No,None
+1127,Yes,None
+1128,Yes,Salary Issue
+1129,No,Work Pressure
+1130,No,Relocation
+1131,No,Better Opportunity
+1132,No,None
+1133,No,Relocation
+1134,No,Better Opportunity
+1135,No,Career Growth
+1136,No,Work Pressure
+1137,No,None
+1138,No,Better Opportunity
+1139,Yes,Career Growth
+1140,No,None
+1141,No,None
+1142,No,Relocation
+1143,No,None
+1144,No,Work Pressure
+1145,No,None
+1146,No,Relocation
+1147,No,Work Pressure
+1148,No,None
+1149,No,Relocation
+1150,No,None
+1151,No,Salary Issue
+1152,Yes,Better Opportunity
+1153,Yes,Career Growth
+1154,No,Better Opportunity
+1155,Yes,Relocation
+1156,No,None
+1157,No,Relocation
+1158,No,None
+1159,No,None
+1160,No,Relocation
+1161,No,Better Opportunity
+1162,No,Salary Issue
+1163,No,Better Opportunity
+1164,No,Better Opportunity
+1165,No,Salary Issue
+1166,No,Career Growth
+1167,No,Career Growth
+1168,No,None
+1169,No,Work Pressure
+1170,No,Work Pressure
+1171,No,Salary Issue
+1172,No,Better Opportunity
+1173,No,Salary Issue
+1174,No,Better Opportunity
+1175,No,None
+1176,Yes,Relocation
+1177,No,Salary Issue
+1178,No,Work Pressure
+1179,No,None
+1180,No,Relocation
+1181,No,Salary Issue
+1182,No,None
+1183,No,Salary Issue
+1184,No,Relocation
+1185,No,Work Pressure
+1186,No,Work Pressure
+1187,No,Salary Issue
+1188,No,Relocation
+1189,No,Work Pressure
+1190,No,Career Growth
+1191,No,Relocation
+1192,No,Relocation
+1193,Yes,Better Opportunity
+1194,No,Salary Issue
+1195,No,Better Opportunity
+1196,No,Better Opportunity
+1197,No,Work Pressure
+1198,Yes,None
+1199,No,Career Growth
+1200,No,Career Growth
+1201,No,Relocation
+1202,No,Better Opportunity
+1203,No,Work Pressure
+1204,No,Work Pressure
+1205,No,Better Opportunity
+1206,No,Career Growth
+1207,No,Better Opportunity
+1208,Yes,Career Growth
+1209,No,Better Opportunity
+1210,No,Salary Issue
+1211,No,Salary Issue
+1212,No,Salary Issue
+1213,Yes,None
+1214,No,Salary Issue
+1215,No,Salary Issue
+1216,No,Relocation
+1217,No,Better Opportunity
+1218,Yes,Better Opportunity
+1219,No,None
+1220,No,Career Growth
+1221,No,Salary Issue
+1222,No,None
+1223,No,Better Opportunity
+1224,No,None
+1225,Yes,Better Opportunity
+1226,No,Relocation
+1227,No,Career Growth
+1228,No,Relocation
+1229,No,Better Opportunity
+1230,No,Relocation
+1231,No,None
+1232,No,Career Growth
+1233,No,Relocation
+1234,No,Work Pressure
+1235,No,Salary Issue
+1236,No,Better Opportunity
+1237,No,Better Opportunity
+1238,No,Career Growth
+1239,No,None
+1240,No,Work Pressure
+1241,No,Career Growth
+1242,No,Career Growth
+1243,No,None
+1244,No,None
+1245,No,Salary Issue
+1246,Yes,Better Opportunity
+1247,No,Work Pressure
+1248,No,None
+1249,No,Career Growth
+1250,No,Relocation
+1251,No,Work Pressure
+1252,Yes,None
+1253,No,Career Growth
+1254,No,Salary Issue
+1255,No,Salary Issue
+1256,No,Relocation
+1257,Yes,None
+1258,No,Career Growth
+1259,No,Relocation
+1260,No,None
+1261,No,Relocation
+1262,No,None
+1263,No,Work Pressure
+1264,Yes,None
+1265,No,None
+1266,No,Salary Issue
+1267,No,Better Opportunity
+1268,No,Relocation
+1269,No,Better Opportunity
+1270,No,None
+1271,Yes,Work Pressure
+1272,No,Relocation
+1273,No,Relocation
+1274,No,Salary Issue
+1275,No,Relocation
+1276,No,Career Growth
+1277,No,Work Pressure
+1278,No,Better Opportunity
+1279,No,Work Pressure
+1280,No,Relocation
+1281,No,Relocation
+1282,No,Salary Issue
+1283,No,Salary Issue
+1284,No,None
+1285,No,Work Pressure
+1286,No,Relocation
+1287,No,Relocation
+1288,No,None
+1289,No,Relocation
+1290,No,Salary Issue
+1291,No,Work Pressure
+1292,No,Relocation
+1293,No,Salary Issue
+1294,No,Salary Issue
+1295,No,Work Pressure
+1296,No,Relocation
+1297,No,Salary Issue
+1298,No,None
+1299,Yes,None
+1300,No,Career Growth
+1301,No,Career Growth
+1302,No,Salary Issue
+1303,No,None
+1304,Yes,Career Growth
+1305,No,Work Pressure
+1306,No,Better Opportunity
+1307,No,None
+1308,No,Career Growth
+1309,No,Work Pressure
+1310,No,Salary Issue
+1311,No,None
+1312,No,None
+1313,No,Work Pressure
+1314,No,Career Growth
+1315,No,None
+1316,No,Work Pressure
+1317,No,Relocation
+1318,No,Relocation
+1319,No,Relocation
+1320,No,None
+1321,No,Better Opportunity
+1322,No,Work Pressure
+1323,No,None
+1324,No,Better Opportunity
+1325,No,Salary Issue
+1326,No,Relocation
+1327,No,None
+1328,Yes,Work Pressure
+1329,No,Salary Issue
+1330,No,Better Opportunity
+1331,No,Better Opportunity
+1332,No,Career Growth
+1333,No,Salary Issue
+1334,No,Work Pressure
+1335,No,Salary Issue
+1336,No,Relocation
+1337,No,Salary Issue
+1338,No,Work Pressure
+1339,No,Work Pressure
+1340,Yes,Better Opportunity
+1341,No,Relocation
+1342,No,Career Growth
+1343,No,Salary Issue
+1344,Yes,Career Growth
+1345,No,None
+1346,No,Career Growth
+1347,No,None
+1348,No,Relocation
+1349,No,None
+1350,No,Salary Issue
+1351,Yes,None
+1352,No,Relocation
+1353,No,Work Pressure
+1354,No,None
+1355,No,Career Growth
+1356,No,None
+1357,No,Career Growth
+1358,No,Work Pressure
+1359,Yes,Salary Issue
+1360,No,Work Pressure
+1361,No,None
+1362,No,Better Opportunity
+1363,No,Career Growth
+1364,No,Work Pressure
+1365,No,Work Pressure
+1366,No,Career Growth
+1367,No,Relocation
+1368,No,Work Pressure
+1369,No,Work Pressure
+1370,No,None
+1371,No,Better Opportunity
+1372,No,None
+1373,Yes,Relocation
+1374,Yes,Career Growth
+1375,No,Work Pressure
+1376,No,Better Opportunity
+1377,No,Relocation
+1378,No,Relocation
+1379,No,Work Pressure
+1380,Yes,Better Opportunity
+1381,No,None
+1382,No,Career Growth
+1383,No,Career Growth
+1384,No,Better Opportunity
+1385,No,Better Opportunity
+1386,No,Salary Issue
+1387,No,Better Opportunity
+1388,Yes,Salary Issue
+1389,No,Better Opportunity
+1390,No,Work Pressure
+1391,No,Relocation
+1392,No,Work Pressure
+1393,No,Better Opportunity
+1394,No,Relocation
+1395,No,Career Growth
+1396,No,Relocation
+1397,Yes,None
+1398,No,Relocation
+1399,No,Relocation
+1400,No,Relocation
+1401,No,Relocation
+1402,Yes,None
+1403,No,None
+1404,No,Work Pressure
+1405,No,Relocation
+1406,No,Better Opportunity
+1407,No,None
+1408,No,Relocation
+1409,No,Work Pressure
+1410,No,None
+1411,No,Better Opportunity
+1412,Yes,Career Growth
+1413,No,Relocation
+1414,No,Better Opportunity
+1415,No,Better Opportunity
+1416,No,Career Growth
+1417,No,None
+1418,No,None
+1419,No,Career Growth
+1420,No,Career Growth
+1421,No,Relocation
+1422,No,Salary Issue
+1423,No,Better Opportunity
+1424,No,None
+1425,No,None
+1426,No,Relocation
+1427,No,Relocation
+1428,Yes,Work Pressure
+1429,No,None
+1430,No,Career Growth
+1431,No,Career Growth
+1432,No,Work Pressure
+1433,No,Work Pressure
+1434,No,Career Growth
+1435,No,Career Growth
+1436,No,Career Growth
+1437,No,None
+1438,No,Career Growth
+1439,No,None
+1440,No,Better Opportunity
+1441,No,Career Growth
+1442,No,Better Opportunity
+1443,Yes,Better Opportunity
+1444,No,Relocation
+1445,No,Relocation
+1446,No,Career Growth
+1447,No,None
+1448,No,Relocation
+1449,Yes,Better Opportunity
+1450,No,None
+1451,No,Better Opportunity
+1452,No,None
+1453,Yes,Relocation
+1454,No,Relocation
+1455,No,Salary Issue
+1456,No,Work Pressure
+1457,No,Relocation
+1458,No,Better Opportunity
+1459,No,Better Opportunity
+1460,No,Work Pressure
+1461,No,Salary Issue
+1462,No,Better Opportunity
+1463,No,Work Pressure
+1464,No,Better Opportunity
+1465,Yes,Relocation
+1466,No,Better Opportunity
+1467,No,Career Growth
+1468,No,Relocation
+1469,No,Career Growth
+1470,No,Relocation
+1471,No,Better Opportunity
+1472,Yes,Salary Issue
+1473,No,None
+1474,No,Career Growth
+1475,No,Career Growth
+1476,No,Salary Issue
+1477,No,Career Growth
+1478,No,Career Growth
+1479,No,None
+1480,No,Better Opportunity
+1481,No,Work Pressure
+1482,No,None
+1483,No,Better Opportunity
+1484,No,Salary Issue
+1485,No,Relocation
+1486,No,None
+1487,No,Career Growth
+1488,Yes,Salary Issue
+1489,No,Career Growth
+1490,No,None
+1491,No,Career Growth
+1492,No,Salary Issue
+1493,No,Better Opportunity
+1494,No,Salary Issue
+1495,No,Work Pressure
+1496,No,None
+1497,No,Career Growth
+1498,No,None
+1499,No,None
+1500,No,Better Opportunity
+1501,No,None
+1502,No,Salary Issue
+1503,No,Better Opportunity
+1504,No,Career Growth
+1505,No,Work Pressure
+1506,No,Work Pressure
+1507,No,Salary Issue
+1508,No,Better Opportunity
+1509,No,Better Opportunity
+1510,No,Better Opportunity
+1511,No,None
+1512,Yes,Career Growth
+1513,No,Salary Issue
+1514,No,Work Pressure
+1515,No,Salary Issue
+1516,No,None
+1517,No,Work Pressure
+1518,No,Work Pressure
+1519,No,Work Pressure
+1520,No,Relocation
+1521,No,Salary Issue
+1522,No,Better Opportunity
+1523,No,Better Opportunity
+1524,Yes,Relocation
+1525,Yes,Work Pressure
+1526,No,Relocation
+1527,No,Salary Issue
+1528,No,None
+1529,No,Better Opportunity
+1530,Yes,Career Growth
+1531,No,Work Pressure
+1532,No,Salary Issue
+1533,No,Relocation
+1534,No,Better Opportunity
+1535,No,None
+1536,No,Salary Issue
+1537,No,Work Pressure
+1538,No,Relocation
+1539,No,Relocation
+1540,No,Better Opportunity
+1541,No,Relocation
+1542,No,Career Growth
+1543,No,Better Opportunity
+1544,No,Career Growth
+1545,No,Work Pressure
+1546,Yes,Career Growth
+1547,No,Better Opportunity
+1548,Yes,Salary Issue
+1549,Yes,Relocation
+1550,No,Work Pressure
+1551,No,None
+1552,No,Work Pressure
+1553,No,Better Opportunity
+1554,No,Salary Issue
+1555,No,Career Growth
+1556,Yes,Work Pressure
+1557,No,Better Opportunity
+1558,No,Career Growth
+1559,No,Better Opportunity
+1560,No,Career Growth
+1561,No,None
+1562,No,None
+1563,No,None
+1564,No,Career Growth
+1565,No,Salary Issue
+1566,No,Career Growth
+1567,No,Salary Issue
+1568,No,None
+1569,Yes,Career Growth
+1570,Yes,None
+1571,No,Work Pressure
+1572,No,None
+1573,No,Work Pressure
+1574,No,Relocation
+1575,No,Relocation
+1576,Yes,None
+1577,No,Better Opportunity
+1578,No,Career Growth
+1579,Yes,Better Opportunity
+1580,No,Better Opportunity
+1581,No,Salary Issue
+1582,No,Better Opportunity
+1583,Yes,Better Opportunity
+1584,No,Salary Issue
+1585,No,None
+1586,No,Career Growth
+1587,No,Salary Issue
+1588,No,Better Opportunity
+1589,No,None
+1590,No,Relocation
+1591,No,Better Opportunity
+1592,No,Salary Issue
+1593,No,None
+1594,Yes,Work Pressure
+1595,No,Salary Issue
+1596,No,Salary Issue
+1597,No,Work Pressure
+1598,No,Work Pressure
+1599,No,Work Pressure
+1600,No,Salary Issue
+1601,No,Relocation
+1602,No,Career Growth
+1603,No,None
+1604,No,Relocation
+1605,No,Career Growth
+1606,No,Career Growth
+1607,No,Relocation
+1608,No,Work Pressure
+1609,No,Relocation
+1610,No,Work Pressure
+1611,No,Relocation
+1612,No,Career Growth
+1613,No,Relocation
+1614,No,None
+1615,No,Salary Issue
+1616,Yes,Relocation
+1617,No,Better Opportunity
+1618,Yes,Work Pressure
+1619,No,Career Growth
+1620,No,Career Growth
+1621,No,Work Pressure
+1622,No,Work Pressure
+1623,No,Salary Issue
+1624,No,Salary Issue
+1625,No,None
+1626,No,Salary Issue
+1627,No,Better Opportunity
+1628,No,Salary Issue
+1629,No,Better Opportunity
+1630,No,Better Opportunity
+1631,No,Salary Issue
+1632,No,Career Growth
+1633,No,Career Growth
+1634,No,None
+1635,No,None
+1636,No,Work Pressure
+1637,No,Better Opportunity
+1638,No,Career Growth
+1639,No,Work Pressure
+1640,No,Career Growth
+1641,No,Better Opportunity
+1642,No,Salary Issue
+1643,No,Relocation
+1644,Yes,Relocation
+1645,No,Relocation
+1646,No,Work Pressure
+1647,No,Career Growth
+1648,No,Salary Issue
+1649,No,Work Pressure
+1650,No,Work Pressure
+1651,No,Relocation
+1652,No,None
+1653,No,Work Pressure
+1654,No,Better Opportunity
+1655,No,Relocation
+1656,No,Career Growth
+1657,No,Career Growth
+1658,No,Relocation
+1659,No,Career Growth
+1660,No,Career Growth
+1661,No,Career Growth
+1662,No,Salary Issue
+1663,Yes,Better Opportunity
+1664,No,Salary Issue
+1665,No,Career Growth
+1666,No,Relocation
+1667,No,Career Growth
+1668,No,Better Opportunity
+1669,No,Relocation
+1670,No,Work Pressure
+1671,No,Salary Issue
+1672,No,Relocation
+1673,No,None
+1674,Yes,Relocation
+1675,No,Work Pressure
+1676,No,Work Pressure
+1677,No,Career Growth
+1678,Yes,Work Pressure
+1679,No,Career Growth
+1680,No,Salary Issue
+1681,No,Better Opportunity
+1682,No,Better Opportunity
+1683,No,Salary Issue
+1684,No,Better Opportunity
+1685,Yes,None
+1686,No,Career Growth
+1687,Yes,Salary Issue
+1688,No,Work Pressure
+1689,No,Salary Issue
+1690,Yes,Relocation
+1691,No,Career Growth
+1692,No,Relocation
+1693,No,Salary Issue
+1694,No,None
+1695,No,Career Growth
+1696,No,Work Pressure
+1697,No,Salary Issue
+1698,No,Relocation
+1699,No,Relocation
+1700,No,Relocation
+1701,Yes,Work Pressure
+1702,No,Better Opportunity
+1703,No,Work Pressure
+1704,No,Better Opportunity
+1705,No,Better Opportunity
+1706,No,Work Pressure
+1707,No,Career Growth
+1708,No,Salary Issue
+1709,No,Work Pressure
+1710,No,Salary Issue
+1711,No,Salary Issue
+1712,No,None
+1713,No,Career Growth
+1714,No,Work Pressure
+1715,No,Relocation
+1716,No,None
+1717,No,Salary Issue
+1718,No,None
+1719,Yes,Better Opportunity
+1720,No,None
+1721,No,None
+1722,No,Salary Issue
+1723,No,Career Growth
+1724,No,Relocation
+1725,No,Relocation
+1726,No,Better Opportunity
+1727,No,Salary Issue
+1728,No,None
+1729,No,Work Pressure
+1730,No,Relocation
+1731,No,Relocation
+1732,No,Salary Issue
+1733,No,Relocation
+1734,No,None
+1735,No,Relocation
+1736,No,Better Opportunity
+1737,Yes,None
+1738,No,Better Opportunity
+1739,No,Salary Issue
+1740,No,Better Opportunity
+1741,No,Relocation
+1742,No,None
+1743,No,Career Growth
+1744,No,Relocation
+1745,No,Career Growth
+1746,No,Relocation
+1747,No,Salary Issue
+1748,No,Salary Issue
+1749,No,Relocation
+1750,Yes,Work Pressure
+1751,No,Salary Issue
+1752,No,Relocation
+1753,No,Career Growth
+1754,No,Salary Issue
+1755,No,Work Pressure
+1756,Yes,Better Opportunity
+1757,No,Work Pressure
+1758,No,Work Pressure
+1759,No,Relocation
+1760,No,Career Growth
+1761,No,Career Growth
+1762,No,Relocation
+1763,No,Better Opportunity
+1764,No,Salary Issue
+1765,No,Better Opportunity
+1766,No,None
+1767,No,Relocation
+1768,No,Work Pressure
+1769,No,Career Growth
+1770,Yes,Better Opportunity
+1771,No,Better Opportunity
+1772,No,Better Opportunity
+1773,No,None
+1774,No,None
+1775,No,None
+1776,Yes,Relocation
+1777,No,Relocation
+1778,No,Better Opportunity
+1779,No,Relocation
+1780,No,Career Growth
+1781,No,Better Opportunity
+1782,No,Better Opportunity
+1783,No,Career Growth
+1784,No,Relocation
+1785,Yes,Relocation
+1786,No,Relocation
+1787,No,Career Growth
+1788,No,Better Opportunity
+1789,No,Work Pressure
+1790,No,Relocation
+1791,No,None
+1792,No,Better Opportunity
+1793,No,Career Growth
+1794,Yes,None
+1795,No,Work Pressure
+1796,Yes,Better Opportunity
+1797,No,None
+1798,No,Salary Issue
+1799,No,Work Pressure
+1800,No,Work Pressure
+1801,No,Relocation
+1802,No,Salary Issue
+1803,No,Work Pressure
+1804,No,None
+1805,Yes,Salary Issue
+1806,No,Relocation
+1807,Yes,Relocation
+1808,No,Relocation
+1809,No,Relocation
+1810,No,Work Pressure
+1811,No,Career Growth
+1812,No,Career Growth
+1813,No,Better Opportunity
+1814,Yes,Career Growth
+1815,No,None
+1816,No,Career Growth
+1817,No,Salary Issue
+1818,No,Better Opportunity
+1819,Yes,Salary Issue
+1820,No,None
+1821,No,None
+1822,No,Work Pressure
+1823,No,None
+1824,No,Relocation
+1825,Yes,Career Growth
+1826,No,Work Pressure
+1827,No,Career Growth
+1828,No,Relocation
+1829,No,Career Growth
+1830,No,Career Growth
+1831,No,Relocation
+1832,No,Better Opportunity
+1833,No,Salary Issue
+1834,No,Career Growth
+1835,No,None
+1836,No,Better Opportunity
+1837,No,Salary Issue
+1838,No,Salary Issue
+1839,No,Salary Issue
+1840,No,Salary Issue
+1841,No,None
+1842,No,None
+1843,No,Work Pressure
+1844,No,Better Opportunity
+1845,No,Relocation
+1846,No,Relocation
+1847,No,Career Growth
+1848,No,Career Growth
+1849,No,Relocation
+1850,No,Career Growth
+1851,Yes,Salary Issue
+1852,No,Salary Issue
+1853,No,Career Growth
+1854,No,Better Opportunity
+1855,No,Work Pressure
+1856,No,Career Growth
+1857,No,Career Growth
+1858,No,Better Opportunity
+1859,No,Work Pressure
+1860,No,Relocation
+1861,No,None
+1862,No,Salary Issue
+1863,No,Salary Issue
+1864,No,Career Growth
+1865,No,None
+1866,No,Work Pressure
+1867,No,Salary Issue
+1868,No,None
+1869,Yes,Better Opportunity
+1870,No,None
+1871,Yes,Salary Issue
+1872,Yes,Better Opportunity
+1873,No,Relocation
+1874,No,Better Opportunity
+1875,No,Career Growth
+1876,No,Better Opportunity
+1877,No,Work Pressure
+1878,No,None
+1879,No,Work Pressure
+1880,No,Better Opportunity
+1881,No,Salary Issue
+1882,No,Better Opportunity
+1883,No,Relocation
+1884,No,Better Opportunity
+1885,No,Better Opportunity
+1886,Yes,Better Opportunity
+1887,No,Career Growth
+1888,No,Work Pressure
+1889,No,Career Growth
+1890,No,Salary Issue
+1891,No,Work Pressure
+1892,No,Better Opportunity
+1893,No,Relocation
+1894,Yes,None
+1895,No,Better Opportunity
+1896,No,Career Growth
+1897,No,Better Opportunity
+1898,No,Better Opportunity
+1899,No,Better Opportunity
+1900,No,Relocation
+1901,Yes,Work Pressure
+1902,No,Relocation
+1903,No,Work Pressure
+1904,No,Career Growth
+1905,No,Better Opportunity
+1906,No,Work Pressure
+1907,No,Relocation
+1908,No,None
+1909,Yes,Work Pressure
+1910,No,None
+1911,No,Better Opportunity
+1912,No,Career Growth
+1913,No,Work Pressure
+1914,No,None
+1915,No,Work Pressure
+1916,No,Better Opportunity
+1917,No,Career Growth
+1918,No,None
+1919,No,Better Opportunity
+1920,Yes,None
+1921,No,Career Growth
+1922,No,Better Opportunity
+1923,Yes,Better Opportunity
+1924,No,None
+1925,No,Better Opportunity
+1926,No,None
+1927,No,Relocation
+1928,No,Better Opportunity
+1929,No,Relocation
+1930,No,Relocation
+1931,No,Better Opportunity
+1932,No,Better Opportunity
+1933,No,None
+1934,No,Relocation
+1935,No,None
+1936,No,Relocation
+1937,No,Career Growth
+1938,No,Better Opportunity
+1939,No,Salary Issue
+1940,No,Salary Issue
+1941,No,Better Opportunity
+1942,No,Work Pressure
+1943,No,Career Growth
+1944,No,Relocation
+1945,Yes,Relocation
+1946,No,None
+1947,No,Relocation
+1948,No,Salary Issue
+1949,No,Better Opportunity
+1950,No,Better Opportunity
+1951,No,Work Pressure
+1952,No,Work Pressure
+1953,No,Career Growth
+1954,Yes,Salary Issue
+1955,No,Career Growth
+1956,No,None
+1957,No,Work Pressure
+1958,No,Career Growth
+1959,No,Relocation
+1960,Yes,None
+1961,No,Salary Issue
+1962,No,Relocation
+1963,No,Salary Issue
+1964,No,None
+1965,No,Better Opportunity
+1966,No,Work Pressure
+1967,No,Better Opportunity
+1968,No,Work Pressure
+1969,No,Salary Issue
+1970,No,Relocation
+1971,No,None
+1972,No,Salary Issue
+1973,No,None
+1974,Yes,Relocation
+1975,No,Work Pressure
+1976,No,Work Pressure
+1977,No,None
+1978,No,Better Opportunity
+1979,No,Better Opportunity
+1980,No,Work Pressure
+1981,No,Career Growth
+1982,No,Relocation
+1983,No,Work Pressure
+1984,No,Relocation
+1985,No,Work Pressure
+1986,No,Salary Issue
+1987,No,Better Opportunity
+1988,No,Relocation
+1989,No,Relocation
+1990,Yes,Better Opportunity
+1991,Yes,Career Growth
+1992,No,Career Growth
+1993,Yes,None
+1994,No,Relocation
+1995,No,Career Growth
+1996,No,Salary Issue
+1997,No,None
+1998,No,Work Pressure
+1999,No,Work Pressure
+2000,No,Better Opportunity
+2001,No,Better Opportunity
+2002,No,None
+2003,No,Career Growth
+2004,No,Better Opportunity
+2005,No,Better Opportunity
+2006,No,Career Growth
+2007,Yes,Better Opportunity
+2008,No,Better Opportunity
+2009,Yes,Work Pressure
+2010,No,None
+2011,No,Relocation
+2012,No,None
+2013,No,Relocation
+2014,No,Salary Issue
+2015,No,Relocation
+2016,No,Salary Issue
+2017,No,None
+2018,No,Career Growth
+2019,No,Work Pressure
+2020,No,Salary Issue
+2021,No,Salary Issue
+2022,Yes,Better Opportunity
+2023,No,Salary Issue
+2024,No,Salary Issue
+2025,No,Better Opportunity
+2026,No,None
+2027,Yes,Salary Issue
+2028,No,Salary Issue
+2029,No,Salary Issue
+2030,No,Career Growth
+2031,No,None
+2032,No,Relocation
+2033,No,Better Opportunity
+2034,No,Relocation
+2035,No,Work Pressure
+2036,No,Career Growth
+2037,No,Work Pressure
+2038,Yes,Career Growth
+2039,No,Relocation
+2040,No,Relocation
+2041,No,Better Opportunity
+2042,No,Salary Issue
+2043,No,Better Opportunity
+2044,Yes,Work Pressure
+2045,No,Better Opportunity
+2046,No,Salary Issue
+2047,No,Better Opportunity
+2048,No,None
+2049,No,Career Growth
+2050,No,Relocation
+2051,No,Relocation
+2052,No,Relocation
+2053,Yes,Relocation
+2054,Yes,None
+2055,No,Better Opportunity
+2056,No,Salary Issue
+2057,No,Better Opportunity
+2058,No,Relocation
+2059,No,Work Pressure
+2060,No,Career Growth
+2061,No,Better Opportunity
+2062,No,None
+2063,No,Better Opportunity
+2064,No,Work Pressure
+2065,No,Relocation
+2066,No,Career Growth
+2067,No,Work Pressure
+2068,No,Work Pressure
+2069,No,Work Pressure
+2070,No,Salary Issue
+2071,No,Salary Issue
+2072,No,Career Growth
+2073,No,Salary Issue
+2074,No,Salary Issue
+2075,No,Relocation
+2076,Yes,Career Growth
+2077,Yes,Better Opportunity
+2078,No,Better Opportunity
+2079,No,Salary Issue
+2080,No,Better Opportunity
+2081,No,Better Opportunity
+2082,Yes,Relocation
+2083,No,Better Opportunity
+2084,No,Relocation
+2085,No,Relocation
+2086,No,Salary Issue
+2087,No,None
+2088,No,None
+2089,Yes,Better Opportunity
+2090,No,Salary Issue
+2091,No,Work Pressure
+2092,No,None
+2093,No,Better Opportunity
+2094,No,Work Pressure
+2095,No,Relocation
+2096,No,Better Opportunity
+2097,No,Salary Issue
+2098,No,None
+2099,No,Career Growth
+2100,No,Relocation
+2101,No,Work Pressure
+2102,No,Relocation
+2103,No,Salary Issue
+2104,Yes,Career Growth
+2105,No,Career Growth
+2106,No,None
+2107,No,Salary Issue
+2108,No,Relocation
+2109,No,Relocation
+2110,Yes,Better Opportunity
+2111,No,Better Opportunity
+2112,No,Better Opportunity
+2113,No,Better Opportunity
+2114,No,None
+2115,Yes,None
+2116,No,Better Opportunity
+2117,No,Better Opportunity
+2118,No,Work Pressure
+2119,No,Better Opportunity
+2120,No,Relocation
+2121,No,Salary Issue
+2122,No,Salary Issue
+2123,No,Better Opportunity
+2124,No,Salary Issue
+2125,No,Relocation
+2126,No,Better Opportunity
+2127,No,Career Growth
+2128,No,Career Growth
+2129,No,Salary Issue
+2130,No,Work Pressure
+2131,No,Career Growth
+2132,No,None
+2133,No,Salary Issue
+2134,No,Salary Issue
+2135,No,Relocation
+2136,No,Career Growth
+2137,No,Salary Issue
+2138,Yes,Better Opportunity
+2139,No,Salary Issue
+2140,No,None
+2141,No,Work Pressure
+2142,No,Relocation
+2143,No,Relocation
+2144,No,Salary Issue
+2145,No,Relocation
+2146,No,Relocation
+2147,No,Salary Issue
+2148,No,Relocation
+2149,No,None
+2150,No,None
+2151,No,Work Pressure
+2152,No,Relocation
+2153,No,None
+2154,No,Relocation
+2155,Yes,Career Growth
+2156,No,None
+2157,Yes,Career Growth
+2158,No,Relocation
+2159,No,Salary Issue
+2160,No,Salary Issue
+2161,No,Salary Issue
+2162,No,None
+2163,No,None
+2164,No,Work Pressure
+2165,Yes,Work Pressure
+2166,No,None
+2167,No,Relocation
+2168,No,Salary Issue
+2169,No,Career Growth
+2170,No,Better Opportunity
+2171,No,Salary Issue
+2172,No,Salary Issue
+2173,No,Better Opportunity
+2174,Yes,None
+2175,No,Better Opportunity
+2176,No,Salary Issue
+2177,No,Salary Issue
+2178,No,None
+2179,Yes,Salary Issue
+2180,No,None
+2181,No,Salary Issue
+2182,No,Salary Issue
+2183,No,Better Opportunity
+2184,No,Better Opportunity
+2185,No,None
+2186,No,Work Pressure
+2187,No,Salary Issue
+2188,Yes,None
+2189,No,Work Pressure
+2190,Yes,Work Pressure
+2191,No,Better Opportunity
+2192,No,Career Growth
+2193,Yes,None
+2194,No,Better Opportunity
+2195,No,Relocation
+2196,No,Relocation
+2197,No,Relocation
+2198,No,None
+2199,No,Work Pressure
+2200,No,Relocation
+2201,No,Career Growth
+2202,Yes,Better Opportunity
+2203,Yes,Relocation
+2204,No,Salary Issue
+2205,No,Work Pressure
+2206,No,None
+2207,Yes,Better Opportunity
+2208,No,Better Opportunity
+2209,No,None
+2210,No,Salary Issue
+2211,No,None
+2212,No,Better Opportunity
+2213,No,None
+2214,No,Salary Issue
+2215,No,Work Pressure
+2216,No,Salary Issue
+2217,No,Work Pressure
+2218,No,Career Growth
+2219,No,Salary Issue
+2220,No,Salary Issue
+2221,Yes,Career Growth
+2222,Yes,Work Pressure
+2223,No,Career Growth
+2224,No,Relocation
+2225,No,Better Opportunity
+2226,No,Salary Issue
+2227,No,Salary Issue
+2228,No,Work Pressure
+2229,No,Better Opportunity
+2230,No,Salary Issue
+2231,Yes,Better Opportunity
+2232,Yes,Career Growth
+2233,No,Salary Issue
+2234,No,Work Pressure
+2235,Yes,Salary Issue
+2236,No,Career Growth
+2237,No,Career Growth
+2238,No,None
+2239,No,None
+2240,No,Relocation
+2241,No,None
+2242,No,Better Opportunity
+2243,Yes,Better Opportunity
+2244,No,Work Pressure
+2245,Yes,Career Growth
+2246,Yes,Work Pressure
+2247,No,None
+2248,No,Career Growth
+2249,Yes,Career Growth
+2250,No,Career Growth
+2251,No,Work Pressure
+2252,No,Work Pressure
+2253,No,Relocation
+2254,No,Better Opportunity
+2255,Yes,None
+2256,No,None
+2257,No,Better Opportunity
+2258,No,Career Growth
+2259,Yes,Better Opportunity
+2260,Yes,Career Growth
+2261,No,Career Growth
+2262,No,Work Pressure
+2263,No,Salary Issue
+2264,No,None
+2265,No,None
+2266,No,Career Growth
+2267,No,Salary Issue
+2268,No,Relocation
+2269,No,Relocation
+2270,No,Salary Issue
+2271,No,Career Growth
+2272,No,Work Pressure
+2273,No,Better Opportunity
+2274,No,Relocation
+2275,No,None
+2276,No,Relocation
+2277,No,Work Pressure
+2278,No,Salary Issue
+2279,No,Relocation
+2280,No,Better Opportunity
+2281,No,Relocation
+2282,No,Better Opportunity
+2283,No,None
+2284,No,Career Growth
+2285,No,Salary Issue
+2286,No,Better Opportunity
+2287,Yes,Career Growth
+2288,No,Relocation
+2289,No,None
+2290,No,Better Opportunity
+2291,Yes,None
+2292,Yes,Relocation
+2293,No,Career Growth
+2294,No,None
+2295,Yes,Relocation
+2296,No,None
+2297,No,Career Growth
+2298,No,None
+2299,No,Better Opportunity
+2300,No,Relocation
+2301,No,Salary Issue
+2302,No,Salary Issue
+2303,No,Relocation
+2304,No,Better Opportunity
+2305,No,Work Pressure
+2306,No,Better Opportunity
+2307,No,Salary Issue
+2308,No,Relocation
+2309,No,Work Pressure
+2310,Yes,Better Opportunity
+2311,No,Work Pressure
+2312,No,Relocation
+2313,No,Career Growth
+2314,No,Relocation
+2315,Yes,Career Growth
+2316,Yes,Work Pressure
+2317,No,Better Opportunity
+2318,No,Relocation
+2319,Yes,Better Opportunity
+2320,No,None
+2321,No,Salary Issue
+2322,No,Salary Issue
+2323,No,Career Growth
+2324,No,Salary Issue
+2325,No,Relocation
+2326,No,Work Pressure
+2327,No,Relocation
+2328,No,None
+2329,No,Salary Issue
+2330,No,Better Opportunity
+2331,No,Career Growth
+2332,No,Salary Issue
+2333,No,Work Pressure
+2334,Yes,Career Growth
+2335,Yes,None
+2336,No,Salary Issue
+2337,No,Better Opportunity
+2338,No,Better Opportunity
+2339,No,Salary Issue
+2340,No,Relocation
+2341,No,Career Growth
+2342,No,Work Pressure
+2343,Yes,Work Pressure
+2344,No,None
+2345,No,None
+2346,No,Relocation
+2347,No,Career Growth
+2348,No,None
+2349,No,None
+2350,No,Relocation
+2351,No,Better Opportunity
+2352,Yes,Career Growth
+2353,No,Career Growth
+2354,No,None
+2355,No,Better Opportunity
+2356,No,Better Opportunity
+2357,Yes,Career Growth
+2358,No,Relocation
+2359,Yes,Salary Issue
+2360,No,Work Pressure
+2361,No,Work Pressure
+2362,No,Salary Issue
+2363,No,Relocation
+2364,No,None
+2365,No,Relocation
+2366,No,Career Growth
+2367,No,Career Growth
+2368,No,Relocation
+2369,Yes,Salary Issue
+2370,No,Better Opportunity
+2371,No,Relocation
+2372,No,Career Growth
+2373,No,Relocation
+2374,No,Relocation
+2375,No,Better Opportunity
+2376,No,Career Growth
+2377,No,Career Growth
+2378,No,Better Opportunity
+2379,Yes,Work Pressure
+2380,No,None
+2381,No,Career Growth
+2382,No,Relocation
+2383,No,Salary Issue
+2384,No,Better Opportunity
+2385,No,Career Growth
+2386,No,Relocation
+2387,No,Better Opportunity
+2388,No,Career Growth
+2389,No,Work Pressure
+2390,No,Better Opportunity
+2391,No,Relocation
+2392,No,Relocation
+2393,No,Work Pressure
+2394,No,Relocation
+2395,No,Work Pressure
+2396,Yes,Relocation
+2397,Yes,Better Opportunity
+2398,No,Career Growth
+2399,No,Work Pressure
+2400,No,Work Pressure
+2401,No,Relocation
+2402,No,Career Growth
+2403,No,Career Growth
+2404,No,None
+2405,No,Work Pressure
+2406,No,Relocation
+2407,No,Career Growth
+2408,No,Work Pressure
+2409,No,Work Pressure
+2410,No,Career Growth
+2411,No,Career Growth
+2412,No,None
+2413,No,Work Pressure
+2414,No,Better Opportunity
+2415,No,Salary Issue
+2416,No,None
+2417,No,Relocation
+2418,No,Career Growth
+2419,Yes,Work Pressure
+2420,No,Better Opportunity
+2421,No,Career Growth
+2422,No,Relocation
+2423,No,Relocation
+2424,No,None
+2425,No,None
+2426,No,None
+2427,No,Salary Issue
+2428,No,Relocation
+2429,No,Salary Issue
+2430,No,None
+2431,No,Work Pressure
+2432,No,Career Growth
+2433,No,Career Growth
+2434,Yes,None
+2435,No,Salary Issue
+2436,No,Salary Issue
+2437,No,Work Pressure
+2438,No,Career Growth
+2439,No,None
+2440,No,Salary Issue
+2441,No,Salary Issue
+2442,No,Salary Issue
+2443,Yes,Relocation
+2444,No,Relocation
+2445,No,Salary Issue
+2446,No,None
+2447,No,None
+2448,No,Work Pressure
+2449,No,Relocation
+2450,No,Relocation
+2451,No,None
+2452,No,Career Growth
+2453,No,Salary Issue
+2454,No,Better Opportunity
+2455,No,None
+2456,Yes,None
+2457,Yes,Salary Issue
+2458,No,Relocation
+2459,No,Relocation
+2460,No,Better Opportunity
+2461,No,Better Opportunity
+2462,Yes,Work Pressure
+2463,No,Career Growth
+2464,Yes,Relocation
+2465,No,Relocation
+2466,No,Career Growth
+2467,No,None
+2468,No,Work Pressure
+2469,No,Career Growth
+2470,No,Career Growth
+2471,No,Career Growth
+2472,No,None
+2473,No,Better Opportunity
+2474,No,Relocation
+2475,No,Work Pressure
+2476,No,Relocation
+2477,Yes,None
+2478,Yes,Salary Issue
+2479,No,Relocation
+2480,Yes,None
+2481,No,Career Growth
+2482,No,Career Growth
+2483,No,Career Growth
+2484,No,None
+2485,No,Work Pressure
+2486,Yes,Relocation
+2487,No,Salary Issue
+2488,Yes,Relocation
+2489,No,Work Pressure
+2490,Yes,None
+2491,No,Salary Issue
+2492,No,Salary Issue
+2493,No,None
+2494,No,Career Growth
+2495,No,Better Opportunity
+2496,No,Career Growth
+2497,No,Career Growth
+2498,No,Relocation
+2499,No,Relocation
+2500,No,Salary Issue

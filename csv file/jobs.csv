@@ -1,0 +1,11 @@
+job_id,job_role,min_salary,max_salary
+1,Sales Executive,25000,60000
+2,HR Executive,26000,50000
+3,Software Engineer,40000,90000
+4,Accountant,35000,70000
+5,Data Analyst,38000,85000
+6,Sales Manager,45000,120000
+7,Research Scientist,50000,150000
+8,System Admin,42000,95000
+9,HR Manager,50000,130000
+10,Financial Analyst,45000,110000
